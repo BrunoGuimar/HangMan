@@ -1,0 +1,50 @@
+*{
+    font-family: 'Rubik Glitch', cursive;
+    font-family: 'Rubik Wet Paint', cursive;
+}
+body{
+    background-color: rgba(224, 226, 104, 0.507);
+    width: 450px;
+    height: 450px;
+    border: 3px solid rgba(19, 18, 18, 0.774);
+    margin: auto;
+    padding: 10px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.692);
+    margin: 10px auto;
+
+}
+header{
+    text-align: center;
+    color: rgba(255, 0, 0, 0.616);
+    text-shadow: 5px 5px 12px rgba(0, 0, 0, 0.747);
+}
+main{
+    text-align: center;
+}
+input{
+    width: 25px;
+    text-align: center;
+    border: 1px solid;
+    box-shadow: 5px 5px 10px rgba(182, 17, 17, 0.295);
+    font-style: bold;
+}
+div{
+    padding: 8px;
+}
+button{
+    color: rgba(182, 25, 25, 0.753);
+    font-style: bold;
+    background: rgba(0, 0, 0, 0.856);
+    font-size: 14px;
+}
+footer{
+    text-align: center;
+}
+img{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    padding: 8px;
+    display: block;
+    margin: auto;
+}
